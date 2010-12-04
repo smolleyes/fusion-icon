@@ -1,0 +1,20 @@
+Source: fusion-icon
+Package: fusion-icon
+Version: 0.1.1-3
+Architecture: all
+Maintainer: Laguillaumie sylvain <s.lagui@free.fr>
+Installed-Size: 264
+Depends: python, python-central (>= 0.6.7), python-gtk2 | python-qt4, python-compizconfig, x11-utils, mesa-utils, compiz (>= 0.9.0)
+Section: x11
+Priority: optional
+Python-Version: All
+Description: tray icon to launch and manage Compiz Fusion
+ The OpenCompositing Project brings 3D desktop visual effects that
+ improve the usability and eye candy of the X Window System and provide
+ increased productivity.
+ .
+ This package contains a tray icon that allows you to easily enable, disable and
+ restart Compiz, and change the currently used window manager and/or window
+ decorator.
+
+
